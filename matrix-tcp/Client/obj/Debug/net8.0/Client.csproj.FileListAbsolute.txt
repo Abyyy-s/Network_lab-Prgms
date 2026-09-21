@@ -1,0 +1,14 @@
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.AssemblyInfoInputs.cache
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.AssemblyInfo.cs
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.csproj.CoreCompileInputs.cache
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/bin/Debug/net8.0/Client
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/bin/Debug/net8.0/Client.deps.json
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/bin/Debug/net8.0/Client.runtimeconfig.json
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/bin/Debug/net8.0/Client.dll
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/bin/Debug/net8.0/Client.pdb
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.dll
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/refint/Client.dll
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.pdb
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/Client.genruntimeconfig.cache
+/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/Debug/net8.0/ref/Client.dll
