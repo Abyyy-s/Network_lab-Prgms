@@ -1,4 +1,4 @@
-C/n
-C#/n
+C\
+C#\
 RUST
 
