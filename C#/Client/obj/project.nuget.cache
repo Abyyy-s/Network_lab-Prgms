@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SeZ342d/9smfv+pvwDI69HXvCZ25P9ty6OL7ImgiiHaqGpmtN+j1FSKuvNnP8lx/LCpI2xIgGhHB8W+MjrrY4g==",
+  "dgSpecHash": "8sVNlpyO037lXJZXg+BuN6ZajHY8CklamMjIUVrqn19yRjcV3WGJnjb+tYA1bprpgBAYXndiRPdSrcTpJn8tSg==",
   "success": true,
-  "projectFilePath": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/Client.csproj",
+  "projectFilePath": "/home/abyyy/Documents/Network lab programs/C#/Client/Client.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

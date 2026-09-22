@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/Client.csproj": {}
+    "/home/abyyy/Documents/Network lab programs/C#/Client/Client.csproj": {}
   },
   "projects": {
-    "/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/Client.csproj": {
+    "/home/abyyy/Documents/Network lab programs/C#/Client/Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/Client.csproj",
+        "projectUniqueName": "/home/abyyy/Documents/Network lab programs/C#/Client/Client.csproj",
         "projectName": "Client",
-        "projectPath": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/Client.csproj",
+        "projectPath": "/home/abyyy/Documents/Network lab programs/C#/Client/Client.csproj",
         "packagesPath": "/home/abyyy/.nuget/packages/",
-        "outputPath": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Client/obj/",
+        "outputPath": "/home/abyyy/Documents/Network lab programs/C#/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/abyyy/.nuget/NuGet/NuGet.Config"

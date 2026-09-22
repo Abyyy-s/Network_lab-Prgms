@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Server/Server.csproj",
+      "projectUniqueName": "/home/abyyy/Documents/Network lab programs/C#/Server/Server.csproj",
       "projectName": "Server",
-      "projectPath": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Server/Server.csproj",
+      "projectPath": "/home/abyyy/Documents/Network lab programs/C#/Server/Server.csproj",
       "packagesPath": "/home/abyyy/.nuget/packages/",
-      "outputPath": "/home/abyyy/Documents/Network lab programs/matrix-tcp/Server/obj/",
+      "outputPath": "/home/abyyy/Documents/Network lab programs/C#/Server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/abyyy/.nuget/NuGet/NuGet.Config"
